@@ -12,7 +12,7 @@ This repository contains:
 
 Put all the files in your Apache `www` folder, import the database SQL in phpMyAdmin or in your MySQL, and access.
 
-For create a teacher or a student login, you'll need first to install the software, and create one, so you can access the teacher or student management panel.
+For create a teacher or a student login, you'll need first to install the [software](https://github.com/alessandrojean/order-by-desktop), and create one, so you can access the teacher or student management panel.
 
 ## Resources
 
