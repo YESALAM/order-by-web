@@ -1,0 +1,30 @@
+{
+	"nome_escola"     : "ETEC \"Lauro Gomes\"",
+	"nome_abreviado"  : "",
+	"logo_principal"  : "etelg.png",
+	"endereco_escola" : "Av. Pereira Barreto, 400 - Baeta Neves - São Bernardo do Campo - SP - 09751-000",
+	"telefone_escola" : "(11) 4125-2288",
+	"email_escola"    : "etelg@etelg.com.br",
+	"logo_escola"     : "logo.png",
+	"quantidade_noticias_carousel" : 5,
+	"quantidade_noticias_normais"  : 8,
+	"parceiros"       :
+	[
+		{
+			"nome_parceiro" : "Centro Paula Souza",
+			"site_parceiro" : "http://centropaulasouza.sp.gov.br/",
+			"logo_parceiro" : "cps.png"
+		},
+		{
+			"nome_parceiro" : "Governo de São Paulo",
+			"site_parceiro" : "http://www.saopaulo.sp.gov.br/",
+			"logo_parceiro" : "governo_estado.png"
+		},
+		{
+			"nome_parceiro" : "Microsoft",
+			"site_parceiro" : "http://www.microsoft.com/pt-br",
+			"logo_parceiro" : "microsoft.png"
+		}	
+	],
+	"cor_navbar"      : "#0e2711"
+}

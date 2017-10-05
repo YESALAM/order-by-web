@@ -1,0 +1,321 @@
+html
+{
+	height:100%;	
+}
+
+body
+{
+	background-color:white;
+	padding-top: 50px; 
+	height:100%;
+	min-height:100%;
+}
+
+.carousel-inner .item img
+{
+	height:400px !important;	
+	width:100%;
+	background-size:100% auto;
+}
+
+/* NOTÍCIAS */
+
+.noticia
+{
+	background-color:white;
+	position: relative;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	margin-bottom:20px;
+	box-shadow:0px 0px 5px rgba(0,0,0,0.1);
+}
+
+.noticia img
+{
+	border-radius: 5px 5px 0 0;
+	width:100%;
+	height:auto;
+}
+
+.noticia .conteudo
+{
+	padding:10px;	
+}
+
+.noticia .conteudo a
+{
+	width:100%;
+	text-align:right;
+	display:block;	
+}
+
+#carousel
+{
+	box-shadow:0px 0px 10px rgba(0,0,0,0.2);	
+}
+
+.footer
+{
+	background-color:#222;
+	color:#9d9d9d;
+	text-align:center;
+	padding:15px;
+	box-shadow:-1px 0px 10px rgba(0,0,0,0.2);	
+	border-top: 1px solid #a5a5a5;
+}
+
+.footer p
+{
+	margin:15px 0 15px 0;	
+}
+
+.footer .parceiros
+{
+	margin:15px 0 0px 0;	
+}
+
+.footer .parceiros img
+{
+	height:50px;
+	width:auto;	
+	margin-right:10px;
+}
+
+.footer .parceiros img:last-of-type
+{
+	margin-right:0;	
+}
+
+.tab-pane
+{
+	border-right:1px solid #ddd;	
+	border-left:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+}
+
+.boletim
+{
+	margin-bottom:20px;	
+}
+
+.user-information
+{
+	display:inline-block;	
+	text-align:center;
+	width:100%;
+	padding:5px 5px 0 5px;
+}
+
+.user-information .imagem
+{
+	width:100px;
+	height:100px;
+	background-size:100% auto;
+	background-position:center;	
+	border: 3px solid white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+	margin:0px auto 10px auto;
+}
+
+.user-information p
+{
+	margin:0;
+	color:#9d9d9d;	
+}
+
+.imagem
+{
+	width:100px;
+	height:100px;
+	background-size:100% auto;
+	background-position:center;	
+	border: 3px solid white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+	margin:0px auto;
+}
+
+.notas-form
+{
+	padding:15px;
+	border:1px solid #ddd;	
+	margin-bottom:20px;
+}
+
+.notas-form.sem-borda
+{
+	padding:0;	
+}
+
+.notas-form.sem-borda-top
+{
+	border-top:none;
+}
+
+.notas-form.sem-borda-total
+{
+	border:none;	
+}
+
+.notas-form .row .col-sm-6:nth-of-type(1) .form-group,
+.notas-form .row .col-sm-6:nth-of-type(2) .form-group
+{
+	margin-top:0;	
+}
+
+.notas-form .form-group
+{
+	margin-top:15px;
+	margin-bottom:0;	
+}
+
+#alunos table tbody td
+{
+	vertical-align:middle;	
+}
+
+#alunos table tbody td img
+{
+	margin:0 auto;
+	display:block;	
+}
+
+.alerta
+{
+	color: #8a6d3b;
+    background-color: #fcf8e3;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+.breadcrumb
+{
+	margin-top:20px;	
+}
+
+.img-aluno-professor
+{
+	width:50px;
+	height:50px;
+	background-size:100% auto;
+	background-position:center;	
+    border-radius: 50%;
+}
+
+.user-information-topics
+{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+	text-align: center;
+}
+
+.user-information-topics li 
+{ 
+	display: inline; 
+}
+
+.user-information-topics li:after
+{
+	content: " · ";
+}
+
+.user-information-topics li:last-child:after
+{
+	content: "";	
+}
+
+html,
+body 
+{ 
+	height: 100%; 
+}
+
+body 
+{
+	display: table;
+	width: 100%;
+}
+
+.page-row 
+{
+	display: table-row;
+	height: 1px;
+}
+
+.page-row-expanded 
+{ 
+	height: 100%; 
+}
+
+.informacoes .tab-pane
+{
+	border-top: 1px solid #ddd;
+	padding:15px;
+	margin-bottom:15px;
+}
+
+.informacoes .tab-pane table:last-child
+{
+	margin-bottom:0;	
+}
+
+.conteudo-noticia
+{
+	padding-bottom:10px;
+}
+
+.conteudo-noticia p
+{
+	text-align:justify;	
+}
+
+.conteudo-noticia iframe[src*="youtube"]
+{
+	width:425px !important;
+	height:355px !important;
+	margin:0 auto;
+	display:block;	
+}
+
+.tag
+{
+	background-color: rgba(225,231,247,0);
+    font-size: 10px;
+    color: #787878;
+    text-decoration: none;
+    padding: 1px 5px;
+    margin-right: 5px;
+    border: #E1E7F7 1px solid;
+    border-radius: 10px;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+	border-color:blue;
+}
+
+.tag:hover 
+{
+    background-color: rgba(32,149,242,0.1);
+	text-decoration: none;
+}
+
+#espaco-noticias
+{
+	margin-bottom:15px;
+}
+
+.media
+{
+	border-bottom:1px dotted #ddd;
+	padding:5px 0 5px 0;
+	margin:0;	
+}
+
+.media:last-of-type
+{
+	padding:5px 0 0 0;
+	border-bottom:none;
+}

@@ -1,0 +1,10 @@
+[
+	{
+		"conteudo" : "<img src=\"nao.png\" style=\"border-radius:5px;\">",
+		"tipo"     : "imagem"
+	},
+	{
+		"conteudo" : "<img src=\"office.jpg\" style=\"border-radius:5px;\">",
+		"tipo"     : "propaganda"
+	}
+]
