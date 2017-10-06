@@ -1,10 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/oSlvwO6.png"/><br/>
-
-</p>
-
-# ![logo](logo.png)
+![logo](logo.png)
+---
 ![presented](https://img.shields.io/badge/presented-2015.11.25-green.svg) ![grade](https://img.shields.io/badge/grade-MB-blue.svg) ![part](https://img.shields.io/badge/part-web-orange.svg)
+</p>
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
 
