@@ -1,6 +1,6 @@
 <p align="center">
-![logo](https://i.imgur.com/oSlvwO6.png)<br/>
-![presented](https://img.shields.io/badge/presented-2015.11.25-green.svg) ![grade](https://img.shields.io/badge/grade-MB-blue.svg) ![part](https://img.shields.io/badge/part-web-orange.svg)
+<img src="https://i.imgur.com/oSlvwO6.png"><br/>
+<img src="https://img.shields.io/badge/presented-2015.11.25-green.svg"> <img src="https://img.shields.io/badge/grade-MB-blue.svg"> <img src="https://img.shields.io/badge/part-web-orange.svg">
 </p>
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
