@@ -1,5 +1,5 @@
 <p align="center">
-![logo](logo.png)<br/>
+![logo](https://i.imgur.com/oSlvwO6.png)<br/>
 ![presented](https://img.shields.io/badge/presented-2015.11.25-green.svg) ![grade](https://img.shields.io/badge/grade-MB-blue.svg) ![part](https://img.shields.io/badge/part-web-orange.svg)
 </p>
 
