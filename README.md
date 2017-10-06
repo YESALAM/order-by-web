@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/JYzpm07.png"/>
+</p>
+
 # Order By (Web)
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
