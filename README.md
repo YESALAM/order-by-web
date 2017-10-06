@@ -1,14 +1,24 @@
 <p align="center">
-<img src="https://i.imgur.com/JYzpm07.png"/>
+<img src="https://i.imgur.com/oSlvwO6.png"/><br/>
+
 </p>
 
-# Order By (Web)
+# ![logo](logo.png)
+![presented](https://img.shields.io/badge/presented-2015.11.25-green.svg) ![grade](https://img.shields.io/badge/grade-MB-blue.svg) ![part](https://img.shields.io/badge/part-web-orange.svg)
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
 
-The project consists in an administration software for a school, with the management done by a software, an website and an application.
+The project consists in an administration software for a school, with the management done by a [software](https://github.com/alessandrojean/order-by-desktop), an [website](https://github.com/alessandrojean/order-by-web) and an [application](https://github.com/alessandrojean/order-by-android).
 
-This repository contains:
+## Features
+- Read all the news published by the [software](https://github.com/alessandrojean/order-by-desktop);
+- Access to the school timetable;
+- Teacher control of grades and abcenses;
+- Generate student list for abcense control, and student photo list;
+- Student visualization of grades and abcenses;
+- API for the [application](https://github.com/alessandrojean/order-by-android).
+
+## Contents
 - All the files that website needs to work;
 - Database file (`banco-de-dados.sql`).
 
